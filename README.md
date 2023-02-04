@@ -1,2 +1,2 @@
 # budget-app  
-    https://timely-gumdrop-46908a.netlify.app/
+https://timely-gumdrop-46908a.netlify.app/
